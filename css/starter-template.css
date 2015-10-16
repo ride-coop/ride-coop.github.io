@@ -5,3 +5,17 @@ body {
   padding: 40px 15px;
   text-align: center;
 }
+.logo{
+  text-align: center;
+}
+
+.logo-img {
+  width: auto;
+  max-width: 100%;
+  height: auto;
+  max-height: 100%;
+}
+
+.logo-text {
+  text-align: center;
+}
